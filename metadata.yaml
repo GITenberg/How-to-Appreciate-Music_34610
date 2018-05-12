@@ -1,0 +1,32 @@
+_repo: How-to-Appreciate-Music_34610
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kobbé, Gustav
+    alias: Kobbe, Gustav
+    birthdate: 1857
+    deathdate: 1918
+    gutenberg_agent_id: '7832'
+    url: http://www.gutenberg.org/2009/agents/7832
+    wikipedia: http://en.wikipedia.org/wiki/Gustav_Kobbe
+description: How to appreciate a pianoforte recital. -- How to appreciate an orchestral
+  concert. -- How to appreciate vocal music.
+gutenberg_issued: '2010-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Music appreciation'
+- !lcsh 'Music'
+- !lcc 'MT'
+tableOfContents: How to appreciate a pianoforte recital -- How to appreciate an orchestral
+  concert -- How to appreciate vocal music.
+title: How to Appreciate Music
+url: http://www.gutenberg.org/ebooks/34610
